@@ -53,7 +53,6 @@ This MCP server enables an AI assistant to:
 
 **Input:**
 
-
 ## Demo
 
 Example workflow:
